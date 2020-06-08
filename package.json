@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://JavaidFreelancer.github.io/robo-friends",
+  "homepage": "https://github.com/JavaidAhmadKhan/robo-friends.git",
   "dependencies": {
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
